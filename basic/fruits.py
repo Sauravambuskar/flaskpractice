@@ -1,0 +1,11 @@
+apple = 5
+banana = 10
+cherry = 15
+mango = 20
+orange = 25
+grape = 30
+pineapple = 35
+watermelon = 40
+kiwi = 45
+strawberry = 50
+fruits = [apple,banana,cherry,mango,orange,grape,pineapple,watermelon,kiwi,strawberry]
